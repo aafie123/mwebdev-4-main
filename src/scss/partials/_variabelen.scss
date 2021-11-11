@@ -1,0 +1,17 @@
+// + + + + + colors + + + + + 
+$text-color: #223;
+$thema-color: #05c;
+$link-color: #900;
+$menu-color: $link-color;
+$hover-color: darken($link-color, 30%);
+$bgcolor: #cff;
+
+// + + + + + fonts + + + + +
+$text-font: Verdana, sans-serif;
+$kop-fonts: Georgia, serif;
+
+// + + + + + sizes + + + + + 
+$main-size: 960px;
+$content-size: 600px;
+$side-width: 320px;
+$header-height: 120px;

@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Verdana, sans-serif;
+  font-size: 14px;
+  line-height: 18px;
+  background-color: #cff;
+  color: #223;
+}
+
+h1, h2, h3 {
+  color: #05c;
+  font-family: Georgia, serif;
+}
+
+header {
+  background-color: #05c;
+  color: #fff;
+  height: 120px;
+  padding: 10px 0 10px 24px;
+}
+
+#header-box h2 {
+  color: #fff;
+}
+
+#menu li {
+  display: inline;
+}
+
+#content-box {
+  width: 960px;
+  max-width: 960px;
+}
+
+.content {
+  width: 600px;
+}
+
+aside {
+  width: 320px;
+}

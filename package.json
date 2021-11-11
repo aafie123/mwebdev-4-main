@@ -1,0 +1,30 @@
+{
+  "name": "sass_oefensite",
+  "version": "1.0.0",
+  "description": "tests voor sass oefening",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanderGalien/mwebdev-4.git"
+  },
+  "keywords": [
+    "sass",
+    "gulp"
+  ],
+  "author": "Rob van der Galiën",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanderGalien/mwebdev-4/issues"
+  },
+  "homepage": "https://github.com/vanderGalien/mwebdev-4#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.5",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "node-sass": "^6.0.1",
+    "sass": "^1.42.1"
+  }
+}
